@@ -4,12 +4,12 @@
 
 ---   
 
-- Leviről KÉP:
-![NÉV](https://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/ANTENNAK/img/LEVI_SP.jpeg)
+- EGY KÉP:
+![NÉV](https://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/ANTENNAK/img/kep.png)
 
+- 1
 - 2
 - 3
-- 4
 
 > 1   
 > 2   
