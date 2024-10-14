@@ -4,8 +4,9 @@
 
 ---   
 
-- 1 
+- Leviről KÉP:
 ![NÉV](http://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/ANTENNAK/img/LEVI_SP.jpeg)
+
 - 2
 - 3
 - 4
