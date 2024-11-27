@@ -90,3 +90,5 @@ György Péter, Illés Balázs
 
 ## Diagram:
 _(Diagramok helye a dokumentumban.)_
+<img width="595" alt="Screenshot 2024-11-27 at 18 46 48" src="https://github.com/user-attachments/assets/889aa0f7-c18d-4738-8bb7-aef0ff10b2b4">
+
