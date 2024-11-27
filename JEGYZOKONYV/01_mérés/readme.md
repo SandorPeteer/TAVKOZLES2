@@ -5,9 +5,9 @@ Antennák nyereségének összehasonlítása három vételi ponton.
 
 ## Eszközök:
 - SMART HD 550 antenna 
-<img width="100" alt="SmartHD550" src="https://github.com/user-attachments/assets/9b672e7c-8184-458b-829b-9b56e8910d90">
-- ISKRA P20 LOGPER antenna 
-<img width="100" alt="SmartHD550" src="https://github.com/user-attachments/assets/67f56c78-bd6a-4484-8316-40f3a6f174a3">
+<img width="100" alt="SmartHD550" src="https://github.com/user-attachments/assets/9b672e7c-8184-458b-829b-9b56e8910d90">   
+- ISKRA P20 LOGPER antenna   
+<img width="100" alt="SmartHD550" src="https://github.com/user-attachments/assets/67f56c78-bd6a-4484-8316-40f3a6f174a3">   
 - IKUSI FLASHD C48 antenna
 - RF kábel
 - METEK HD spektrum/jelszint analizátor
