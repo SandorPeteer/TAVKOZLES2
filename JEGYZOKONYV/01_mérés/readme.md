@@ -34,10 +34,10 @@ Az antennák nyereségének összehasonlítása három különböző vételi pon
 
 ---
 
-## Dátum és idő:
+## Dátum és idő:   
 2024. október 9.
 
-## Csoport neve:
+## Csoport neve:   
 György Péter, Illés Balázs
 
 ---
