@@ -5,8 +5,7 @@ Antennák nyereségének összehasonlítása három vételi ponton.
 
 ## Eszközök:
 - SMART HD 550 antenna
-  ![image](https://github.com/user-attachments/assets/9b672e7c-8184-458b-829b-9b56e8910d90)
-
+<img width="100" alt="SmartHD550" src="https://github.com/user-attachments/assets/9b672e7c-8184-458b-829b-9b56e8910d90">
 - ISKRA P20 LOGPER antenna
 - IKUSI FLASHD C48 antenna
 - RF kábel
