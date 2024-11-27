@@ -55,10 +55,13 @@ György Péter, Illés Balázs
 
 ## Eredmények összehasonlítása:
 
-### **V3. Lab.**
+<details>
+<summary>V3. Lab.</summary>
 - **IKUSI-FLASHD-C48:** Legjobb jelszint (-40.2 dBm), legmagasabb MER (28.5 dB).
 - **ISKRA-P20-LOGPER:** Közel azonos jelszint (-40.5 dBm), alacsonyabb MER (26.6 dB).
-- **SMART-HD-550:** Gyengébb teljesítmény (-53.5 dBm), elfogadható MER (27.0 dB).
+- **SMART-HD-550:** Gyengébb teljesítmény (-53.5 dBm), elfogadható MER (27.0 dB).  
+</details>
+
 
 ### **Kis udvar**
 - **IKUSI-FLASHD-C48:** Legjobb MER (33.1 dB), közepes jelszint (-45.1 dBm).
