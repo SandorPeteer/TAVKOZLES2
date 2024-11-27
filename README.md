@@ -1,4 +1,6 @@
-# Mérési jegyzőkönyvek gyűjteménye 2024
+# Sándor Péter
+
+Mérési jegyzőkönyvek gyűjteménye 2024:
 
 - [mérés 1](https://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/01_mérés)
 - [mérés 2](https://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/02_mérés)
