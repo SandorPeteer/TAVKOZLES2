@@ -1,22 +1,21 @@
 # Sándor Péter
 
-Portfólió tartalomjegyzék:
 
-## Content
+## Portfólió tartalomjegyzék
 
-**[1. Markdown](#heading--1)**
+**[1. fejezet](#heading--1)**
 
-  * [1.1. Markdown formatting cheatsheet](#heading--1-1)
-  * [1.2. Markdown formatting details](#heading--1-2)
+  * [1.1. első alfejezet](#heading--1-1)
+  * [1.2. második alfejezet](#heading--1-2)
 
-**[2. BBCode formatting](#heading--2)**
+**[2. fejezet](#heading--2)**
 
-  * [2.1. Basic text formatting](#heading--2-1)
+  * [2.1. második fejezet első alfejezete](#heading--2-1)
 
-      * [2.1.1. Not so basic text formatting](#heading--2-1-1)
+      * [2.1.1. ennek is az alfejezete](#heading--2-1-1)
 
-  * [2.2. Lists, Images, Code](#heading--2-2)
-  * [2.3. Special features](#heading--2-3)
+  * [2.2. kettőperkettő fejezet](#heading--2-2)
+  * [2.3. kettőperhárom fejezet](#heading--2-3)
 
 ----
 
