@@ -32,7 +32,7 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 | Név | GitHub link | Megjegyzés |
 |---|---|---|
 | Balázs Bálint | https://github.com/blzsBalint/jegyzokonyv.git | ez még kevés |
-| Buró Bence | https://github.com/burobence/jegyzokonyvek.git | gyenge |
+| Buró Bence | https://github.com/burobence/jegyzokonyvek.git | :hankey: |
 | Csépke Péter | https://github.com/burobence/jegyzokonyvek.git | elfogadható |
 | Erős Bence | https://erosbence27.github.io/jegyzokonyv/index | - [x]megfelel |
 | Gál Levente M. | https://leventegal.github.io/Tavkozeles/ | - [ ]hiányos  |
