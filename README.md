@@ -33,7 +33,7 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 |---|---|---|
 | Balázs Bálint | https://github.com/blzsBalint/jegyzokonyv.git |  |
 | Buró Bence | https://github.com/burobence/jegyzokonyvek.git |  |
-| Csépke Péter | https://github.com/burobence/jegyzokonyvek.git | Távközlés | Jegyzokonyv |
+| Csépke Péter | https://github.com/burobence/jegyzokonyvek.git |    |
 | Erős Bence | https://erosbence27.github.io/jegyzokonyv/index |  |
 | Gál Levente M. | https://leventegal.github.io/Tavkozeles/ |  |
 | Gáspár Máté | https://github.com/GasparMate/tavkozlesMeresek |  |
@@ -48,7 +48,6 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 | Orosz Szabolcs | https://oroszszr.github.io/jegyzokonyv/ |  |
 | Pavlyás Bence | https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/index.md |  |
 | Pongó Tamás | https://github.com/pongotamaas/tavkozles_jegyzokonyv |  |
-| Sándor Péter | https://sandorpeteer.github.io/tavkozles/ |  |
 | Sándor Zsombor | https://github.com/Zsomborrrr/meresek |  |
 | Snellenperger Sándor | https://github.com/Snellenperger/tavkozlesMeresek |  |
 | Szabó Alex | https://github.com/SzAlex04/jegyzokonyv/tree/main |  |
