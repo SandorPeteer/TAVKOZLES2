@@ -34,8 +34,8 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 | Balázs Bálint | https://github.com/blzsBalint/jegyzokonyv.git | ez még kevés |
 | Buró Bence | https://github.com/burobence/jegyzokonyvek.git | :hankey: |
 | Csépke Péter | https://github.com/burobence/jegyzokonyvek.git | elfogadható |
-| Erős Bence | https://erosbence27.github.io/jegyzokonyv/index | - [x]megfelel |
-| Gál Levente M. | https://leventegal.github.io/Tavkozeles/ | - [ ]hiányos  |
+| Erős Bence | https://erosbence27.github.io/jegyzokonyv/index | [:white_check_mark:] megfelel |
+| Gál Levente M. | https://leventegal.github.io/Tavkozeles/ | [:interrobang:] hiányos  |
 | Gáspár Máté | https://github.com/GasparMate/tavkozlesMeresek | <ul><li>[ ] megfelel</li><li>[ ] hiányos</li><li>[x] szar</li></ul> |
 | György Péter | https://github.com/GyorgyPeter/tavkozles | <ul><li> - [x] item1</li><li>- [ ] item2</li></ul> |
 | Hódos Balázs | https://github.com/hodosb/osszesmeres |  |
