@@ -58,7 +58,7 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 | Hódos Balázs | https://github.com/hodosb/osszesmeres | <p>Neked kell még egy kis &#129504;</p> |
 | Horváth Martin | https://github.com/martinez7200/tavkozles/blob/main/jegyzokonyv/index.md |  |
 | Illés Balázs | https://github.com/balumester/jegyzetk-nyv/blob/main/README.md |  |
-| Juhász Ádám | https://juhaszadi.github.io/jegyzokonyv/ | <span style='font-size:50px;'>&#129504;</span> |
+| Juhász Ádám | https://juhaszadi.github.io/jegyzokonyv/ | <span style='font-size:50px;'>&#129470; alakul</span> |
 | Kónya Zsombor | https://github.com/hodosb/osszesmeres |  |
 | Mercz Noel | https://noel-mercz.github.io/Meresijegyzokonyvek/ |  |
 | Oláh Bence | https://bakker004.github.io/meresijegyzokony/ |  |
