@@ -27,24 +27,7 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 - [mérés 3](https://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/03_mérés)
 - [mérés 4](https://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/04_mérés)
 
-<table>
-  <tr>
-    <th>Név</th>
-    <th>GitHub link</th>
-    <th>Megjegyzés</th>
-  </tr>
-  <tr>
-    <td><b>Balázs Bálint</b></td>
-    <td><a href="https://github.com/blzsBalint/jegyzokonyv.git">GitHub link</a></td>
-    <td><font color="green">Nagyon jó munka! </font></td>
-  </tr>
-  <tr>
-    <td>Buró Bence</td>
-    <td>https://github.com/burobence/jegyzokonyvek.git</td>
-    <td><i>Még van hova fejlődni</i> </td>
-  </tr>
-</table>
-
+---   
 
 | Név | GitHub link | Megjegyzés |
 |---|---|---|
@@ -75,6 +58,8 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 | Tomolya Milán | https://github.com/tomolyamilan/jegyzokonyv.git |  |
 | Vad Levente | https://github.com/VLevente0/meresi-jegyzokonyvek |  |
 | Visnyei Sándor | https://sancy1021.github.io/Tavkozles/ |  |
+
+---   
 
 ## Fejezet 1.1 <a name="heading--1-1"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus bibendum volutpat mauris, at fringilla turpis posuere sit amet. Curabitur blandit at odio vel bibendum. Morbi fermentum molestie orci id commodo. Curabitur mollis, erat ut scelerisque vehicula, orci risus tristique lorem, nec luctus massa nunc quis magna. Sed nec ipsum sodales, sodales nisl non, accumsan lorem. Morbi fermentum, ipsum ac maximus cursus, nisl ante vulputate sapien, a interdum mauris augue vel nunc. Aliquam tincidunt facilisis odio, nec luctus tortor congue in. Integer libero lorem, efficitur eu lobortis at, sodales vel nisi. Vivamus tellus augue, laoreet tristique rhoncus malesuada, egestas quis dui.
