@@ -27,6 +27,23 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 - [mérés 3](https://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/03_mérés)
 - [mérés 4](https://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/04_mérés)
 
+<table>
+  <tr>
+    <th>Név</th>
+    <th>GitHub link</th>
+    <th>Megjegyzés</th>
+  </tr>
+  <tr>
+    <td><b>Balázs Bálint</b></td>
+    <td><a href="https://github.com/blzsBalint/jegyzokonyv.git">GitHub link</a></td>
+    <td><font color="green">Nagyon jó munka! </font></td>
+  </tr>
+  <tr>
+    <td>Buró Bence</td>
+    <td>https://github.com/burobence/jegyzokonyvek.git</td>
+    <td><i>Még van hova fejlődni</i> </td>
+  </tr>
+</table>
 
 
 | Név | GitHub link | Megjegyzés |
