@@ -34,10 +34,10 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 | Balázs Bálint | https://github.com/blzsBalint/jegyzokonyv.git | ez még kevés |
 | Buró Bence | https://github.com/burobence/jegyzokonyvek.git | gyenge |
 | Csépke Péter | https://github.com/burobence/jegyzokonyvek.git | elfogadható |
-| Erős Bence | https://erosbence27.github.io/jegyzokonyv/index | megfelelt - []|
-| Gál Levente M. | https://leventegal.github.io/Tavkozeles/ | megfelelt - [] |
-| Gáspár Máté | https://github.com/GasparMate/tavkozlesMeresek | <ul><li>[] megfelel</li><li>[] hiányos</li><li>[x] szar</li></ul> |
-| György Péter | https://github.com/GyorgyPeter/tavkozles | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul> |
+| Erős Bence | https://erosbence27.github.io/jegyzokonyv/index | megfelelt - [ ]|
+| Gál Levente M. | https://leventegal.github.io/Tavkozeles/ | megfelelt - [x] |
+| Gáspár Máté | https://github.com/GasparMate/tavkozlesMeresek | <ul><li>[ ] megfelel</li><li>[ ] hiányos</li><li>[x] szar</li></ul> |
+| György Péter | https://github.com/GyorgyPeter/tavkozles | <ul><li> - [x] item1</li><li>- [ ] item2</li></ul> |
 | Hódos Balázs | https://github.com/hodosb/osszesmeres |  |
 | Horváth Martin | https://github.com/martinez7200/tavkozles/blob/main/jegyzokonyv/index.md |  |
 | Illés Balázs | https://github.com/balumester/jegyzetk-nyv/blob/main/README.md |  |
