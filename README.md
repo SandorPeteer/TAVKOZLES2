@@ -28,6 +28,36 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 - [mérés 4](https://sandorpeteer.github.io/TAVKOZLES2/JEGYZOKONYV/04_mérés)
 
 
+
+Balázs Bálint	https://github.com/blzsBalint/jegyzokonyv.git
+Buró Bence	https://github.com/burobence/jegyzokonyvek.git
+Csépke Péter	Távközlés | Jegyzokonyv
+Erős Bence	https://erosbence27.github.io/jegyzokonyv/index
+Gál Levente M.	https://leventegal.github.io/Tavkozeles/
+Gáspár Máté	https://github.com/GasparMate/tavkozlesMeresek
+György Péter	https://github.com/GyorgyPeter/tavkozles
+Hódos Balázs	https://github.com/hodosb/osszesmeres
+Horváth Martin	https://github.com/martinez7200/tavkozles/blob/main/jegyzokonyv/index.md
+Illés Balázs	https://github.com/balumester/jegyzetk-nyv/blob/main/README.md
+Juhász Ádám	https://juhaszadi.github.io/jegyzokonyv/
+Kónya Zsombor	https://github.com/hodosb/osszesmeres
+Mercz Noel	https://noel-mercz.github.io/Meresijegyzokonyvek/
+Oláh Bence	https://bakker004.github.io/meresijegyzokony/
+Orosz Szabolcs	https://oroszszr.github.io/jegyzokonyv/
+Pavlyás Bence	https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/index.md
+Pongó Tamás	https://github.com/pongotamaas/tavkozles_jegyzokonyv
+Sándor Péter	https://sandorpeteer.github.io/tavkozles/
+Sándor Zsombor	https://github.com/Zsomborrrr/meresek
+Snellenperger Sándor	https://github.com/Snellenperger/tavkozlesMeresek
+Szabó Alex	https://github.com/SzAlex04/jegyzokonyv/tree/main
+Szabó Kristóf	https://github.com/krstf-szb/tavkozles
+Szabó Tamás	https://github.com/szabot2/tavkozlesMeresek
+Szabolcsik Mátyás	https://github.com/matyasszabolcsik/meresek
+Szatmari András	https://1szatmariandras6.github.io/TAVKOZLES
+Tomolya Milán	https://github.com/tomolyamilan/jegyzokonyv.git
+Vad Levente	https://github.com/VLevente0/meresi-jegyzokonyvek
+Visnyei Sándor	https://sancy1021.github.io/Tavkozles/
+
 ## Fejezet 1.1 <a name="heading--1-1"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus bibendum volutpat mauris, at fringilla turpis posuere sit amet. Curabitur blandit at odio vel bibendum. Morbi fermentum molestie orci id commodo. Curabitur mollis, erat ut scelerisque vehicula, orci risus tristique lorem, nec luctus massa nunc quis magna. Sed nec ipsum sodales, sodales nisl non, accumsan lorem. Morbi fermentum, ipsum ac maximus cursus, nisl ante vulputate sapien, a interdum mauris augue vel nunc. Aliquam tincidunt facilisis odio, nec luctus tortor congue in. Integer libero lorem, efficitur eu lobortis at, sodales vel nisi. Vivamus tellus augue, laoreet tristique rhoncus malesuada, egestas quis dui.
 
