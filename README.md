@@ -38,10 +38,10 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 | Gál Levente M. | https://leventegal.github.io/Tavkozeles/ | :interrobang: hiányos  |
 | Gáspár Máté | https://github.com/GasparMate/tavkozlesMeresek | <ul><li>[ ] megfelel</li><li>[ ] hiányos</li><li>[x] szar</li></ul> |
 | György Péter | https://github.com/GyorgyPeter/tavkozles | <ul><li> - [x] item1</li><li>- [ ] item2</li></ul> |
-| Hódos Balázs | https://github.com/hodosb/osszesmeres | <p>Neked kellene még egy kis: &#129504;</p> |
+| Hódos Balázs | https://github.com/hodosb/osszesmeres | <p>Neked kell még egy kis &#129504;</p> |
 | Horváth Martin | https://github.com/martinez7200/tavkozles/blob/main/jegyzokonyv/index.md |  |
 | Illés Balázs | https://github.com/balumester/jegyzetk-nyv/blob/main/README.md |  |
-| Juhász Ádám | https://juhaszadi.github.io/jegyzokonyv/ |  |
+| Juhász Ádám | https://juhaszadi.github.io/jegyzokonyv/ | <span style='font-size:50px;'>&#129504;</span> |
 | Kónya Zsombor | https://github.com/hodosb/osszesmeres |  |
 | Mercz Noel | https://noel-mercz.github.io/Meresijegyzokonyvek/ |  |
 | Oláh Bence | https://bakker004.github.io/meresijegyzokony/ |  |
