@@ -36,9 +36,9 @@ Mérési jegyzőkönyvek gyűjteménye 2024:
 | Csépke Péter | https://github.com/burobence/jegyzokonyvek.git | elfogadható |
 | Erős Bence | https://erosbence27.github.io/jegyzokonyv/index | :white_check_mark: megfelel |
 | Gál Levente M. | https://leventegal.github.io/Tavkozeles/ | :interrobang: hiányos  |
-| Gáspár Máté | https://github.com/GasparMate/tavkozlesMeresek | <ul><li>[ ] megfelel</li><li>[ ] hiányos</li><li>[x] szar</li></ul> |
-| György Péter | https://github.com/GyorgyPeter/tavkozles | <ul><li> - [x] item1</li><li>- [ ] item2</li></ul> |
-| Hódos Balázs | https://github.com/hodosb/osszesmeres | <p>Neked kell még egy kis &#129504;</p> |
+| Gáspár Máté | https://github.com/GasparMate/tavkozlesMeresek | <ul><li>[x] szar</li></ul> |
+| György Péter | https://github.com/GyorgyPeter/tavkozles | <span style='font-size:50px;'>&#128064; nézem</span> |
+| Hódos Balázs | https://github.com/hodosb/osszesmeres | <p>Neked kell még egy kis  &#129504;</p> |
 | Horváth Martin | https://github.com/martinez7200/tavkozles/blob/main/jegyzokonyv/index.md |  |
 | Illés Balázs | https://github.com/balumester/jegyzetk-nyv/blob/main/README.md |  |
 | Juhász Ádám | https://juhaszadi.github.io/jegyzokonyv/ | <span style='font-size:50px;'>&#129470; alakul</span> |
